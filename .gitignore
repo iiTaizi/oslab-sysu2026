@@ -1,0 +1,8 @@
+# OS Lab 忽略规则
+build/
+*/build/
+*.bin
+*.img
+*.o
+*.elf
+*.sym
