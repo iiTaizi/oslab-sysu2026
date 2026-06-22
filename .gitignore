@@ -1,4 +1,4 @@
-# OS Lab 忽略规则
+# OS Lab build artifacts
 build/
 */build/
 *.bin
@@ -6,3 +6,7 @@ build/
 *.o
 *.elf
 *.sym
+
+# Local tooling and editor state
+.vscode/
+skills/
